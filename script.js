@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Comprador(a) Consciente",
-                afirmacao: "afirmação"
+                afirmacao: "Você costuma fazer uma lista antes de sair de casa e se esforça para comprar apenas o necessário, evitando promoções que te levariam a adquirir mais do que realmente precisa. Sua despensa e geladeira são bem organizadas e você sabe o que tem.",
             },
             {
                 texto: "Comprador(a) Impulsivo(a)",
-                afirmacao: "afirmação"
+                afirmacao: ""
             }
         ]
     },
